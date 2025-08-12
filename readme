@@ -1,0 +1,6 @@
+chạy: build_and_run.bat
+
+luồng đi : database -> model -> data structure -> controller/service(thuật toán) -> output
+
+nếu tự cài đặt cấu trúc dữ liệu thì nó thường nằm ở utils, lib, helpers.
+còn nếu dùng build sẵn thì ở luôn ở controller/service hoặc tìm thử trong models, entities(nest.js)
